@@ -1,6 +1,6 @@
 Este é um dos meus projetos de tratamento de dados que desenvolvi na empresa Zmes, pela qual é minha
 primeira vez como estagiario de dados e tech, onde estou aprendendo o processo de ETL (Extract, Transform, Load)
-que em português seria extrair, transformar e carregar dados usando python. Esta sendo uma experiência increivel,
+que em português seria extrair, transformar e carregar dados usando python. Esta sendo uma experiência incrível,
 onde estou aprendendo muito sobre a área de dados. Também quero dizer que esta é minha primeira vez usando o git
 para subir o arquivo no meu repositorio de github, onde aprendi alguns comando necessario como:
 
